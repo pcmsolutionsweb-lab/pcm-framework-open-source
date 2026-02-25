@@ -13,7 +13,7 @@ Cansado de ver o Docker consumir 4GB de RAM para um site simples? Farto de lutar
 ## Iniciação Rápida (10 Segundos)
 
 ### 1. Download & Instalação
-Descarrega o [último binário aqui](link) e dá duplo-clique no `pcm.exe`
+Descarrega o [último binário aqui](https://github.com/pcmsolutionsweb-lab/pcm-framework-open-source/releases/tag/v1.0.0-alpha) e dá duplo-clique no `pcm.exe`
 *O instalador irá configurar as variáveis de sistema automaticamente*
 
 ### 2. Criar um Projeto
@@ -23,4 +23,5 @@ pcm new <nome_do_site>
 cd <nome_do_site>
 pcm up -o
 ```
+
 Neste momento estás no teu browser e tens o ambiente completamente preparado para testes
